@@ -1,8 +1,8 @@
 {
   "project_root": ".",
-  "modules": "CC.Gom.SpAc.Smal",
+  "modules": "CC.Gom.Smal.SpAc",
   "entry_points": "",
   "priority": "",
-  "repo_urls": "https://github.com/Conscience-Constellator/CC.Gom.SpAc.Smal",
+  "repo_urls": "https://github.com/Conscience-Constellator/CC.Gom.Smal.SpAc",
   "notes": "No mains"
 }
